@@ -1,0 +1,26 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "S&S Precision PlateFrame plate carrier (Flecktarn Black)",
+	"type": "RETEXTURE",
+    "shortName": "PlateFrame",
+    "description": "Minimalistic, lightweight, semi rigid plastic design provides a rigid mounting platform unlike any other plate carrier on the market. The frame gives the operator the capability to scale their load out up or down to meet operational requirements. The PlateFrame allows for easy attachment of accessory pouches and will accommodate standard MOLLE/PALS pouches. Flecktarn Black version.",
+
+    "baseItemID": "628b9784bcf6e2659e09b8a2",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "assets/content/characters/character/tacticalvest/cr_commando_mesh",
+		"shaders",
+		"cubemaps",
+		"assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "copyAssort": false,
+    "addToBots": true,
+    "weightingMult": 1.0,
+	
+	"loyaltyLevel": 3,
+    "price": {
+        "currency": "RUB",
+        "amount": 260953,
+    },
+}
